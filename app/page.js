@@ -1,8 +1,7 @@
-
-
+import { Button } from "@/components/ui/button";
 export default function Home() {
   return (
-    <div > Subscribe
-    </div>
+    <Button > Subscribe to RoadSide Coder!!
+    </Button>
   );
 }
