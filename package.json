@@ -37,6 +37,7 @@
     "react-hook-form": "^7.71.1",
     "react-spinners": "^0.17.0",
     "recharts": "^3.7.0",
+    "resend": "^6.9.2",
     "sonner": "^2.0.7",
     "tailwind-merge": "^3.4.0",
     "tailwindcss-animate": "^1.0.7",
@@ -44,6 +45,7 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
+    "@react-email/preview-server": "5.2.8",
     "autoprefixer": "^10.4.24",
     "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
